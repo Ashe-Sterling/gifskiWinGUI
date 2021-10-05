@@ -2,7 +2,7 @@ gifskiWinGUI v0.0.1
 
 By Ashe Sterling
 
-Usage: A GUI Wrapper for ImageOptim's gifski Command-Line utility for Windows.
+Usage: A GUI Wrapper for ImageOptim's gifski Command-Line utility implementation for Windows.
 
 ------Installation------
 
