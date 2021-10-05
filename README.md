@@ -6,7 +6,9 @@ Usage: A GUI Wrapper for ImageOptim's gifski Command-Line utility for Windows.
 
 ------Installation------
 
--Put gifskiWinGUI.exe and gifski.exe in the same folder. -Run gifskiWinGUI.exe
+-Put gifskiWinGUI.exe and gifski.exe in the same folder. 
+
+-Run gifskiWinGUI.exe
 
 ------Instructions------
 
