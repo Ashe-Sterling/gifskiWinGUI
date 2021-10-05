@@ -14,7 +14,8 @@ Usage: A GUI Wrapper for ImageOptim's gifski Command-Line utility for Windows.
 
 -Put all of the image frames that will be used to render your animation into a separate folder. (Note: this is because this program automatically uses all files within the selected folder for the animation.)
 
--Navigate to that folder using the "Browse..." button next to the Source Frames box. -Alternatively, type the directory for the folder into the Source Frames box.
+-Navigate to that folder using the "Browse..." button next to the Source Frames box. 
+  -Alternatively, type the directory for the folder into the Source Frames box.
 
 -Determine what size you want your output .gif to be. The program uses the size of the first image in the sequence by default, which will be displayed when you first choose the directory.
 
