@@ -4,6 +4,8 @@ By Ashe Sterling
 
 Usage: A GUI Wrapper for ImageOptim's gifski Command-Line utility implementation for Windows.
 
+___I am brand new to C#, and haven't coded in about a decade, and that was just CLI Python stuff, so go easy on me. But, if anyone has any tips or recommendations, I would be happy to listen in the issues forum.___
+
 ------Installation------
 
 -Put gifskiWinGUI.exe and gifski.exe in the same folder. 
