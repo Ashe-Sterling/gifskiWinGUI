@@ -18,7 +18,7 @@ ___I am brand new to C#, and haven't coded in about 7 years, and that was just C
 
 -Navigate to that folder using the "Browse..." button next to the Source Frames box. 
 
-	-Alternatively, type the directory for the folder into the Source Frames box.
+   -Alternatively, type the directory for the folder into the Source Frames box.
 
 -Determine what size you want your output .gif to be. The program uses the size of the first image in the sequence by default, which will be displayed when you first choose the directory.
 
